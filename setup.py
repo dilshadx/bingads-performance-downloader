@@ -10,6 +10,7 @@ setup(
     install_requires=[
         'bingads==11.12.2',
         'click>=6.0'
+        'mara-config>=0.1'
     ],
 
     packages=find_packages(),
